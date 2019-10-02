@@ -118,12 +118,12 @@
     <!-- Test Dependencies -->
 
     <!-- https://mvnrepository.com/artifact/MrPowers/spark-fast-tests -->
-    <dependency>
+   <!-- <dependency>
       <groupId>MrPowers</groupId>
       <artifactId>spark-fast-tests</artifactId>
       <version>${spark.fast.test.version}</version>
       <scope>test</scope>
-    </dependency>
+    </dependency> -->
 
     <!-- https://mvnrepository.com/artifact/com.holdenkarau/spark-testing-base -->
   <dependency>
