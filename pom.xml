@@ -21,6 +21,14 @@
     <kafka.schema.registry.version>5.2.1</kafka.schema.registry.version>
     <kafka.avro.serializer.version>5.2.2</kafka.avro.serializer.version>
   </properties>
+  
+  <repositories>
+        <repository>
+            <id>confluent</id>
+            <name>Confluent</name>
+            <url>http://packages.confluent.io/maven/</url>
+        </repository>
+    </repositories>
 
   <dependencies>
     <dependency>
