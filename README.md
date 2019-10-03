@@ -14,6 +14,8 @@
   </a>
 </p>
 
+[![CircleCI](https://circleci.com/gh/anilkulkarni87/spark-apps/tree/master.svg?style=svg)](https://circleci.com/gh/anilkulkarni87/spark-apps/tree/master)
+
 > A template project for Spark Applications and some reusable component
 > 
 
